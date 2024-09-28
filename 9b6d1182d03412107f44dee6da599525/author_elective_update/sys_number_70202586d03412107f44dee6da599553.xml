@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="DELETE">
+        <category display_value="" name="x_cdltd_loaner_req_loaner_request">x_cdltd_loaner_req_loaner_request</category>
+        <maximum_digits>6</maximum_digits>
+        <number>2000</number>
+        <prefix>LNR</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-23 19:33:48</sys_created_on>
+        <sys_id>70202586d03412107f44dee6da599553</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>LNR</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">9b6d1182d03412107f44dee6da599525</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">9b6d1182d03412107f44dee6da599525</sys_scope>
+        <sys_update_name>sys_number_70202586d03412107f44dee6da599553</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-23 19:33:48</sys_updated_on>
+    </sys_number>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">9b6d1182d03412107f44dee6da599525</application>
+        <file_path/>
+        <instance_id>4d0db88e93fcde54dd40768efaba103e</instance_id>
+        <instance_name>nowlearning-nlinst02091669-0001</instance_name>
+        <name>sys_number_70202586d03412107f44dee6da599553</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number"><sys_number action="INSERT_OR_UPDATE"><category display_value="" name="x_cdltd_loaner_req_loaner_request">x_cdltd_loaner_req_loaner_request</category><maximum_digits>6</maximum_digits><number>2000</number><prefix>LNR</prefix><sys_class_name>sys_number</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-23 19:33:48</sys_created_on><sys_id>70202586d03412107f44dee6da599553</sys_id><sys_mod_count>0</sys_mod_count><sys_name>LNR</sys_name><sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">9b6d1182d03412107f44dee6da599525</sys_package><sys_policy/><sys_scope display_value="Loaner Request">9b6d1182d03412107f44dee6da599525</sys_scope><sys_update_name>sys_number_70202586d03412107f44dee6da599553</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-23 19:33:48</sys_updated_on></sys_number></record_update>]]></payload>
+        <payload_hash>474247411</payload_hash>
+        <record_name>LNR</record_name>
+        <reverted_from/>
+        <source>df6d1182d03412107f44dee6da599527</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-23 19:33:49</sys_created_on>
+        <sys_id>c1202586d03412107f44dee6da59956a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192206038b90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-23 19:33:49</sys_updated_on>
+        <type>Number</type>
+        <update_guid>09202586bb3412108e745b169b0efa69</update_guid>
+        <update_guid_history>09202586bb3412108e745b169b0efa69:474247411</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-28 00:42:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_number">sys_number</sys_db_object>
+        <sys_id>5cb282a4e7e8435e8407ece1a2b1f164</sys_id>
+        <sys_metadata>70202586d03412107f44dee6da599553</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>LNR</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">9b6d1182d03412107f44dee6da599525</sys_package>
+        <sys_parent display_value="">82df9d46d03412107f44dee6da5995f0</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">9b6d1182d03412107f44dee6da599525</sys_scope>
+        <sys_scope_delete display_value="">36975f9d1b274270a5fce5febe566ce1</sys_scope_delete>
+        <sys_update_name>sys_number_70202586d03412107f44dee6da599553</sys_update_name>
+        <sys_update_version display_value="sys_number_70202586d03412107f44dee6da599553">c1202586d03412107f44dee6da59956a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-28 00:42:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
