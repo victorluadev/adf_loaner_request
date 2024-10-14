@@ -31,16 +31,16 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-09-23 19:21:58</sys_created_on>
         <sys_id>9b6d1182d03412107f44dee6da599525</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-10-04 01:37:21</sys_updated_on>
+        <sys_updated_on>2024-10-14 17:59:45</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>1.0.0</version>
+        <version>2.0.0</version>
     </sys_app>
     <sys_translated_text action="delete_multiple" query="documentkey=9b6d1182d03412107f44dee6da599525"/>
 </record_update>

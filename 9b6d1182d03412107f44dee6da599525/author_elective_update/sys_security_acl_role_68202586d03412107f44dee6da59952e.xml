@@ -41,7 +41,7 @@
         <update_guid_history>242025862334121043611fd536b05930:-1106802869</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="x_cdltd_loaner_req_loaner_request.x_cdltd_loaner_req.loaner_request_user">2f1d4f5f007012107f4429c0cfa8ef24</sys_audit_delete>
+        <sys_audit_delete display_value="">2f1d4f5f007012107f4429c0cfa8ef24</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-09-28 00:42:21</sys_created_on>

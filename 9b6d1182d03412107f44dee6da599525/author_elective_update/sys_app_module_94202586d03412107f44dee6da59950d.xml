@@ -65,7 +65,7 @@
         <update_guid_history>10202586213412101a4eb7a04defe810:-1104924386</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Loaner Requests">631d4f5f007012107f4429c0cfa8ef53</sys_audit_delete>
+        <sys_audit_delete display_value="">631d4f5f007012107f4429c0cfa8ef53</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-09-28 00:42:21</sys_created_on>
