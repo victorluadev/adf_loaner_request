@@ -4,7 +4,7 @@
         <application display_value="Loaner Request">0f5d439f007012107f4429c0cfa8efcd</application>
         <assessment/>
         <device_type/>
-        <filter table="x_cdltd_loaner_req_loaner_request">state=1^EQ<item display_value="Open" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="1"/>
+        <filter table="x_cdltd_loaner_req_loaner_request">state=1^EQ<item display_value="1" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="1"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </filter>
         <hint/>
